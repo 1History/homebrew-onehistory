@@ -1,0 +1,4 @@
+* Homebrew Tap for [[https://github.com/1History/1History][1History]]
+#+begin_src
+brew install 1History/onehistory/onehistory
+#+end_src
